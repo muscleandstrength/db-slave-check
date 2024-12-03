@@ -1,4 +1,4 @@
-mysql-connector-python==9.0.0
+mysql-connector-python==9.1.0
 python-dotenv==1.0.1
 python-http-client==3.3.7
 sendgrid==6.11.0
